@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/action_star"
+        android:title="@string/action_search"
+
+        android:orderInCategory="100"
+        android:icon="@drawable/start"
+        app:showAsAction="ifRoom"
+        />
+
+    <item android:id="@+id/mAbout"
+          android:title="@string/mAbout"
+        android:icon="@drawable/setting"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/mContact"
+        android:title="@string/mContact"
+        android:icon="@drawable/setting"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/mConfigAccount"
+        android:title="@string/mConfigAccount"
+        android:icon="@drawable/setting"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/mReceiveNotif"
+        android:title="@string/mReceiveNotif"
+        android:icon="@drawable/setting"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+
+</menu>

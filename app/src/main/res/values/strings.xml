@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Petagram</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Sett</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_detalle">Petagram</string>
+
+    <string name="mAbout">Acerca de</string>
+    <string name="mContact">Contacto</string>
+    <string name="title_activity_contacto">ContactoActivity</string>
+
+    <string name="form_title">Datos Contacto</string>
+    <string name="form_name">Nombre completo</string>
+    <string name="form_phone">Teléfono</string>
+    <string name="form_email">Email</string>
+    <string name="form_birthdate">Fecha de Nacimiento</string>
+
+
+    <string name="form_button_next">Enviar Comentario</string>
+    <string name="form_description">Descripción Mensaje</string>
+    <string name="title_activity_detalle_contacto">Confirmar Datos</string>
+
+    <string name="show_confirm">Confirmar Datos</string>
+    <string name="show_birthdate_text">Fecha Nacimiento:</string>
+    <string name="show_phone_label">Tel:</string>
+    <string name="show_email_label">Email:</string>
+
+    <string name="show_description_label">Descripción:</string>
+    <string name="show_btn_edit">Editar Datos</string>
+    <string name="title_activity_about">AboutActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="plikes">0</string>
+    <string name="mReceiveNotif">Recibir Notificaciones</string>
+    <string name="title_config_account">Configurar Cuenta</string>
+    <string name="config_account_save">Guardar Cuenta</string>
+    <string name="config_account_form_name">Escribe tu usuario</string>
+    <string name="mConfigAccount">Configurar Cuenta</string>
+    <string name="hintpetagram">Escribe tu usuario</string>
+    <string name="like_success">Likes exitoso</string>
+    <string name="like_notsuccess">Ocurrio un error al realizar el like</string>
+    <string name="texto_accion_toque">Follow/Unfollow</string>
+    <string name="follow_correct">Usuario guardado Correctamente</string>
+    <string name="follow_incorrect">Usuario incorrecto, favor utilice los usuarios en modo sandbox.</string>
+    <string name="texto_accion_toque_home">Abrir Home</string>
+    <string name="texto_accion_toque_perfil">Abrir perfil</string>
+    <string name="texto_accion_toque_follow">Follow</string>
+    <string name="error_follow">Favor configure su cuenta para poder seguir.</string>
+    <string name="follow_failure">Ocurrio un problema, porfavor vuelva a intentarlo.</string>
+    <string name="failure">Problemas de conexión.</string>
+    <string name="texto_accion_toque_unfollow">unfollow</string>
+
+</resources>
